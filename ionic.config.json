@@ -1,0 +1,7 @@
+{
+  "name": "examenfinaldesarrollomovil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
