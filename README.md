@@ -1,20 +1,46 @@
-# Tourism Mobile App
+# Tourism Mobile App | Aplicación Móvil de Turismo
 
 Aplicación móvil de turismo desarrollada en Android con Kotlin, arquitectura MVVM, Retrofit y Google Maps API.
 
-Android tourism application built with Kotlin, MVVM, Retrofit and Google Maps API.
+Android tourism mobile application built with Kotlin, MVVM architecture, Retrofit and Google Maps API.
 
-## Características
+---
 
-- Registro e inicio de sesión de usuarios
-- Visualización de destinos turísticos
-- Detalle de destinos
-- Integración con Google Maps
-- Consumo de API REST
-- Arquitectura MVVM
-- Conexión con backend propio
+## Características | Features
 
-## Tecnologías
+- Registro de usuarios  
+  User registration
+
+- Inicio de sesión  
+  User login
+
+- Visualización de destinos turísticos  
+  Tourist destination listing
+
+- Detalle de destinos turísticos  
+  Tourist destination details
+
+- Integración con Google Maps  
+  Google Maps integration
+
+- Configuración de avatar de perfil  
+  Profile avatar configuration
+
+- Consulta de perfil de usuario  
+  User profile view
+
+- Cambio de contraseña  
+  Password update
+
+- Consumo de API REST propia  
+  Custom REST API consumption
+
+- Arquitectura MVVM  
+  MVVM architecture
+
+---
+
+## Tecnologías | Technologies
 
 - Kotlin
 - Android Studio
@@ -22,17 +48,25 @@ Android tourism application built with Kotlin, MVVM, Retrofit and Google Maps AP
 - Retrofit
 - Google Maps API
 - RecyclerView
+- REST API
 
-## Backend relacionado
+---
+
+## Backend relacionado | Related Backend
 
 Este proyecto se conecta con el backend:
 
-`tourism-app-backend`
+This project connects with the backend:
 
-## Capturas
+```txt
+tourism-app-backend
+```
 
-Pendiente agregar capturas de pantalla.
 
-## Autor
+
+
+---
+
+## Autor | Author
 
 Emanuel Gonzalez
